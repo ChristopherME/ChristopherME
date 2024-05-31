@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a self taught android SWE from Perú 🇵🇪. I've been making Android apps for multiple sectors such as e-commerce, transport, banks, health, tracking, etc. Since 2016. 
+My love-hate relationship with coding took me to discover habilities I didn't knew I had. 
+Ever since, I've won world-wide contests, and even had the chance to be exported all the way from Perú to Germany 🇩🇪.
+
+On my free times I love to watch movies, listening to music and of course, surf 🌊.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherME&show_icons=true&theme=radical)
+
+
 <!--
 **ChristopherME/ChristopherME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
